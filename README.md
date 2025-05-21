@@ -5,7 +5,7 @@
 
 # 👋 Hello there! I'm Vineesh Vasudevan
 
-🎯 **Senior .NET Developer | Cloud Enthusiast | Problem Solver**  
+🎯 **Senior .NET Developer | Technical Lead | Cloud Enthusiast | Problem Solver**  
 🛠️ Crafting scalable, high-performance backend solutions with .NET 8, AWS, and Azure.  
 🚀 Passionate about clean architecture, microservices, and automation.
 
